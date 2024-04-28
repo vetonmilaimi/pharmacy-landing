@@ -1,11 +1,11 @@
 import Header from './components/header'
-import Card from './components/ui/Card'
+import HeroSection from './components/hero-section'
 
 function App() {
 	return (
 		<>
 			<Header />
-			<Card />
+			<HeroSection />
 		</>
 	)
 }

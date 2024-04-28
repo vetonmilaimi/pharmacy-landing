@@ -10,6 +10,7 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
+    font-family: 'Poppins', 'sans-serif', 'serif';
 }
 
 html {
@@ -33,10 +34,10 @@ p {
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
  
-    --primary: 0 0% 15%;
+    --primary: 220 95% 34%;
     --primary-foreground: 210 40% 98%;
  
-    --secondary:47, 89%, 52%;
+    --secondary: 147, 76%, 44%;
     --secondary-foreground: 0 0% 15%;
  
     --muted: 47 89% 52%; 
